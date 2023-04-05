@@ -1,0 +1,46 @@
+{
+  "restaurants":[
+    {
+    "id": 1,
+    "name": "Fusion Table",
+    "location":"Kadapakkada",
+    "city": "Kollam"
+    },
+    {
+      "id": 2,
+      "name": "Ramees Restaurant",
+      "location":"Chinnakada",
+      "city": "Kollam"
+    },
+    {
+      "id": 3,
+      "name": "Lunch Box",
+      "location":"Randamkutty",
+      "city": "Kollam"
+    }
+  ],
+  "menuList": [
+    {
+      "id": 1,
+      "cuisine":"Indian",
+      "type":"non-veg",
+      "menu":[
+        {
+          "id":1,
+          "itemName":"Biriyani",
+          "price":"180"
+        },
+        {
+          "id":2,
+          "itemName":"Fried Rice",
+          "price":"150"
+        },
+        {
+          "id":3,
+          "itemName":"Noodles",
+          "price":"160"
+        }
+      ]
+    }
+  ]
+}
